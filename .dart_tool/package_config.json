@@ -92,6 +92,18 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "petitparser",
+      "rootUri": "file:///Users/Nam/.pub-cache/hosted/pub.dev/petitparser-5.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "rxdart",
+      "rootUri": "file:///Users/Nam/.pub-cache/hosted/pub.dev/rxdart-0.27.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "sky_engine",
       "rootUri": "file:///Users/Nam/Desktop/flutter%20sdk/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -146,13 +158,19 @@
       "languageVersion": "3.1"
     },
     {
+      "name": "xml",
+      "rootUri": "file:///Users/Nam/.pub-cache/hosted/pub.dev/xml-5.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
       "name": "design_pattern_practices",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-09-26T10:50:59.519382Z",
+  "generated": "2023-10-13T10:50:13.177466Z",
   "generator": "pub",
   "generatorVersion": "3.1.2"
 }
